@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "picnicday.data.unityweb",
+"asmCodeUrl": "picnicday.asm.code.unityweb",
+"asmMemoryUrl": "picnicday.asm.memory.unityweb",
+"asmFrameworkUrl": "picnicday.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
